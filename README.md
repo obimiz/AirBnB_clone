@@ -3,9 +3,9 @@
 ## Functionalities of this command interpreter:
 
 - Create a new object (ex: a new User or a new Place)
-- Retrieve an object from a file, a database etc...
+- Get an item out of a database, file, etc..
 - Do operations on objects (count, compute stats, etc...)
-- Update attributes of an object
+- Modify an object's properties
 - Destroy an object
 
 ## Environment
@@ -26,7 +26,7 @@ This first step consists of a custom command-line interface for data management,
 
 ## Tests
 
-All the code is tested with the unittest module. The test for the classes are inthe`test_models folder`.
+The unittest module is used to test every line of code. The classes' tests can be found in the ~test_models folder.
 
 ## Authors
 
